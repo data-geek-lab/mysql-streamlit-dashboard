@@ -32,19 +32,6 @@ mysql_dashboard/
 
 ---
 
-## 📦 Install Requirements
-
-```bash
-pip install -r requirements.txt
-
-## Run the Dashboard
-Run this line of code in your terminal:
-
-streamlit run app.py
-
-Then open the app in your browser at:
-http://localhost:8501
-
 
 ## 🧠 Video Tutorial
 
@@ -62,3 +49,15 @@ If this project helped you learn SQL, feel free to support the creator:
 Subscribe to my channel for step-by-step videos on how to use python, sql, power bi and excel for data analytics. 
 https://www.youtube.com/@datageekismyname
 
+## 📦 Install Requirements
+
+```bash
+pip install -r requirements.txt
+
+## Run the Dashboard
+Run this line of code in your terminal:
+
+streamlit run app.py
+
+Then open the app in your browser at:
+http://localhost:8501
