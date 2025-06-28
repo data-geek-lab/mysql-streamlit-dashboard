@@ -1,4 +1,4 @@
-# mysql-streamlit-dashboard
+# Mysql-Streamlit-Dashboard
 Live sales dashboard using Python, MySQL, and Streamlit with real-time updates, Plotly charts, and dynamic insights.
 
 
@@ -55,9 +55,9 @@ https://www.youtube.com/@datageekismyname
 pip install -r requirements.txt
 
 ## Run the Dashboard
-Run this line of code in your terminal:
+#Run this line of code in your terminal:
 
 streamlit run app.py
 
-Then open the app in your browser at:
+# Then open the app in your browser at:
 http://localhost:8501
